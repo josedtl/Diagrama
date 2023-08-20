@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="IYma81u18eDkwFzMeXuq" name="Page-1">
+        <mxGraphModel dx="1130" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Registrar Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="140" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Verificar stock de Productos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="240" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Generación &lt;br&gt;Orden de Pedido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="140" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Solicitar Cotización" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="235" y="140" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Reserva producto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="235" y="240" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Entrega producto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="140" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Generación de &lt;br&gt;Orden compra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="240" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Recepción de productos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="240" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Ingreso &lt;br&gt;productos&lt;br&gt;a stock" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="340" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Manejo de Inventario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="340" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
